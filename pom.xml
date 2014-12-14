@@ -20,6 +20,11 @@
           <artifactId>sqlite-jdbc</artifactId>
           <version>3.7.2</version>
       </dependency>
+      <dependency>
+          <groupId>org.jdbi</groupId>
+          <artifactId>jdbi</artifactId>
+          <version>2.55</version>
+      </dependency>
 
     <dependency>
       <groupId>co.cask.http</groupId>
